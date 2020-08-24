@@ -1,0 +1,1 @@
+This is my first HTML/CSS project for github where I am actually building something. The goal of this project is to use the browser's developer tools and reconstruct Google's homepage.
